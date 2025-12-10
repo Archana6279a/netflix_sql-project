@@ -11,10 +11,11 @@ This project involves a comprehensive analysis of Netflix's movies and TV shows 
 - List and analyze content based on release years, countries, and durations
 - Explore and categorize content based on specific criteria and keywords
 
-## Dataset
+## Dataset Link
 The data for this project is sourced from the Kaggle dataset:
 
-Dataset Link: "C:\Users\HP\Desktop\netflix_titles.csv"
+[Dataset Link — Netflix Movies and TV Shows](https://www.kaggle.com/datasets/shivamb/netflix-shows)
+
 
 # Schema
 
